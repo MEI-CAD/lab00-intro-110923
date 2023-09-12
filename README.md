@@ -12,4 +12,5 @@ This practical class will provide an introduction to:
 
 - Alex Davidson
 - João Lourenço
+- Bernardo Calvo
 - João Ribeiro
